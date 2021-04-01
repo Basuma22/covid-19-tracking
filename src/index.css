@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.form-one {
+  display: grid;
+  height: 450px;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgreen;
+  margin-left: 30%;
+  margin-top: 5%;
+  border-radius: 15px;
+  border: 3px solid black;
+}
+.form-one h1 {
+  font-style: italic;
+}
+input {
+  height: 35px;
+  width: 350px;
+  border-radius: 8px;
+}
+.btn {
+  height: 35px;
+  width: 300px;
+  background-color: lightgreen(236, 231, 229);
+  border-radius: 10px;
+}
+.ben {
+  height: 35px;
+  width: 80px;
+  background-color:lightgreen(236, 145, 145);
+}
+.band {
+  border: 2px solid black;
+  height: 200px;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 35%;
+  margin-top: 20px;
+  border-radius: 50px 20px;
+  background-color: lightgreen;
+}
+body {
+  background: lightgreen(209, 211, 214);
+}
+
+
+
+
+  
